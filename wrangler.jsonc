@@ -1,0 +1,7 @@
+{
+  "name": "wflows-lp",
+  "compatibility_date": "2025-11-13",
+  "assets": {
+    "directory": "./dist"
+  }
+}
