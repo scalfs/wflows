@@ -1,0 +1,91 @@
+---
+---
+
+<section id="contact" class="py-24 bg-gradient-to-br from-navy-900 to-navy-950 relative overflow-hidden">
+  <!-- Background effects -->
+  <div class="absolute top-0 left-1/4 w-96 h-96 bg-teal-500/10 rounded-full blur-3xl animate-pulse-slow"></div>
+  <div class="absolute bottom-0 right-1/4 w-96 h-96 bg-electric-500/10 rounded-full blur-3xl animate-pulse-slow" style="animation-delay: 2s;"></div>
+
+  <div class="relative z-10 max-w-4xl mx-auto px-6 lg:px-8 text-center">
+    <h2 class="text-4xl md:text-6xl font-bold mb-6">
+      Pronto para <span class="text-gradient">Automatizar</span>?
+    </h2>
+
+    <p class="text-xl md:text-2xl text-gray-300 mb-8">
+      Agende uma demonstração gratuita e veja como podemos transformar seu atendimento em 7 dias
+    </p>
+
+    <div class="bg-navy-800/50 backdrop-blur-sm border border-gray-800 rounded-2xl p-8 mb-8">
+      <h3 class="text-2xl font-bold text-gray-100 mb-6">O que você receberá:</h3>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-6 text-left">
+        <div class="flex items-start gap-3">
+          <svg class="w-6 h-6 text-teal-400 flex-shrink-0 mt-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+          </svg>
+          <div>
+            <h4 class="font-semibold text-gray-100">Diagnóstico Completo</h4>
+            <p class="text-gray-400">Análise detalhada dos seus processos atuais</p>
+          </div>
+        </div>
+
+        <div class="flex items-start gap-3">
+          <svg class="w-6 h-6 text-electric-400 flex-shrink-0 mt-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+          </svg>
+          <div>
+            <h4 class="font-semibold text-gray-100">Demonstração ao Vivo</h4>
+            <p class="text-gray-400">Veja os agentes funcionando em tempo real</p>
+          </div>
+        </div>
+
+        <div class="flex items-start gap-3">
+          <svg class="w-6 h-6 text-teal-400 flex-shrink-0 mt-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+          </svg>
+          <div>
+            <h4 class="font-semibold text-gray-100">Plano Personalizado</h4>
+            <p class="text-gray-400">Estratégia específica para seu negócio</p>
+          </div>
+        </div>
+
+        <div class="flex items-start gap-3">
+          <svg class="w-6 h-6 text-electric-400 flex-shrink-0 mt-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+          </svg>
+          <div>
+            <h4 class="font-semibold text-gray-100">ROI Projetado</h4>
+            <p class="text-gray-400">Estimativa de retorno e redução de custos</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Cal.com Inline Embed -->
+    <div class="bg-navy-800/30 backdrop-blur-sm border border-gray-800/50 rounded-2xl p-6 pb-0 mb-8">
+      <h3 class="text-2xl font-bold text-gray-100 mb-2 text-center">Agende sua Demonstração</h3>
+      <div class="text-center">
+        <p class="text-gray-500 text-sm mb-4">
+          Sem compromisso • Demonstração de 30 minutos • Análise gratuita
+        </p>
+      </div>
+      <!-- Cal inline embed code begins -->
+<div style="width:100%;height:100%;overflow:scroll" id="my-cal-inline-30min"></div>
+<script type="text/javascript">
+  (function (C, A, L) { let p = function (a, ar) { a.q.push(ar); }; let d = C.document; C.Cal = C.Cal || function () { let cal = C.Cal; let ar = arguments; if (!cal.loaded) { cal.ns = {}; cal.q = cal.q || []; d.head.appendChild(d.createElement("script")).src = A; cal.loaded = true; } if (ar[0] === L) { const api = function () { p(api, arguments); }; const namespace = ar[1]; api.q = api.q || []; if(typeof namespace === "string"){cal.ns[namespace] = cal.ns[namespace] || api;p(cal.ns[namespace], ar);p(cal, ["initNamespace", namespace]);} else p(cal, ar); return;} p(cal, ar); }; })(window, "http://calcom-vo8kgwo88g448wkssgsoow8g.3.137.161.1.sslip.io/embed/embed.js", "init");
+Cal("init", "30min", {origin:"http://calcom-vo8kgwo88g448wkssgsoow8g.3.137.161.1.sslip.io"});
+
+  Cal.ns["30min"]("inline", {
+    elementOrSelector:"#my-cal-inline-30min",
+    config: {"layout":"month_view","theme":"dark"},
+    calLink: "wflows/30min",
+  });
+
+  Cal.ns["30min"]("ui", {"theme":"dark","hideEventTypeDetails":false,"layout":"month_view"});
+  </script>
+  <!-- Cal inline embed code ends -->
+    </div>
+
+    
+  </div>
+</section>

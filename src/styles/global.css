@@ -1,0 +1,124 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/forms";
+@plugin "@tailwindcss/typography";
+@plugin "tailwind-scrollbar-hide";
+
+@theme {
+  --font-sans: Inter, system-ui, -apple-system, sans-serif;
+
+  /* WFlows Brand Colors - Deep Navy, Teal, Electric Accent */
+  --color-navy-50: oklch(96% 0.01 240);
+  --color-navy-100: oklch(92% 0.015 240);
+  --color-navy-200: oklch(85% 0.02 240);
+  --color-navy-300: oklch(75% 0.025 240);
+  --color-navy-400: oklch(65% 0.03 240);
+  --color-navy-500: oklch(55% 0.035 240);
+  --color-navy-600: oklch(45% 0.04 240);
+  --color-navy-700: oklch(35% 0.045 240);
+  --color-navy-800: oklch(25% 0.05 240);
+  --color-navy-900: oklch(18% 0.055 240);
+  --color-navy-950: oklch(12% 0.06 240);
+
+  /* Teal Accent */
+  --color-teal-50: oklch(96% 0.02 185);
+  --color-teal-100: oklch(92% 0.04 185);
+  --color-teal-200: oklch(85% 0.08 185);
+  --color-teal-300: oklch(75% 0.12 185);
+  --color-teal-400: oklch(65% 0.16 185);
+  --color-teal-500: oklch(55% 0.18 185);
+  --color-teal-600: oklch(45% 0.16 185);
+  --color-teal-700: oklch(35% 0.14 185);
+  --color-teal-800: oklch(25% 0.12 185);
+  --color-teal-900: oklch(18% 0.1 185);
+
+  /* Electric Blue Accent */
+  --color-electric-50: oklch(96% 0.02 220);
+  --color-electric-100: oklch(92% 0.05 220);
+  --color-electric-200: oklch(85% 0.1 220);
+  --color-electric-300: oklch(75% 0.15 220);
+  --color-electric-400: oklch(68% 0.2 220);
+  --color-electric-500: oklch(60% 0.25 220);
+  --color-electric-600: oklch(50% 0.22 220);
+  --color-electric-700: oklch(40% 0.18 220);
+  --color-electric-800: oklch(30% 0.15 220);
+  --color-electric-900: oklch(20% 0.12 220);
+
+  /* Neutral Grays */
+  --color-gray-50: oklch(98% 0 0);
+  --color-gray-100: oklch(96% 0 0);
+  --color-gray-200: oklch(92% 0 0);
+  --color-gray-300: oklch(86% 0 0);
+  --color-gray-400: oklch(70% 0 0);
+  --color-gray-500: oklch(60% 0 0);
+  --color-gray-600: oklch(50% 0 0);
+  --color-gray-700: oklch(40% 0 0);
+  --color-gray-800: oklch(30% 0 0);
+  --color-gray-900: oklch(20% 0 0);
+  --color-gray-950: oklch(10% 0 0);
+
+  /* Sizing */
+  --container-2xl: 80rem;
+
+  /* Border Radius */
+  --radius-sm: 0.25rem;
+  --radius-md: 0.5rem;
+  --radius-lg: 0.75rem;
+  --radius-xl: 1rem;
+  --radius-2xl: 1.5rem;
+}
+
+/* Base Styles */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-sans);
+  background: linear-gradient(180deg, var(--color-navy-950) 0%, var(--color-navy-900) 100%);
+  color: var(--color-gray-100);
+  min-height: 100vh;
+}
+
+/* Typography */
+.text-gradient {
+  background: linear-gradient(135deg, var(--color-teal-400) 0%, var(--color-electric-400) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Animations */
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+@keyframes pulse-slow {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.8;
+  }
+}
+
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+.animate-pulse-slow {
+  animation: pulse-slow 3s ease-in-out infinite;
+}
+
+/* Custom Utilities */
+.glow-teal {
+  box-shadow: 0 0 30px rgba(94, 234, 212, 0.3);
+}
+
+.glow-electric {
+  box-shadow: 0 0 30px rgba(96, 165, 250, 0.3);
+}

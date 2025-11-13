@@ -1,0 +1,21 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import Hero from "@/components/landing/Hero.astro";
+import Services from "@/components/landing/Services.astro";
+import HowItWorks from "@/components/landing/HowItWorks.astro";
+import UseCases from "@/components/landing/UseCases.astro";
+import About from "@/components/landing/About.astro";
+import CTA from "@/components/global/CTA.astro";
+---
+
+<BaseLayout
+  title="WFlows - AI-Powered Workflows That Win"
+  description="Construímos workflows com IA que capturam leads, atendem clientes e geram receita automaticamente. Atendimento por voz 24/7, agendamentos inteligentes e integração total com seu CRM."
+>
+  <Hero />
+  <Services />
+  <HowItWorks />
+  <UseCases />
+  <About />
+  <CTA />
+</BaseLayout>
