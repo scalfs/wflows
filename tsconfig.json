@@ -1,4 +1,7 @@
 {
+  "extends": "astro/tsconfigs/strict",
+  "include": [".astro/types.d.ts", "**/*"],
+  "exclude": ["dist"],
   "compilerOptions": {
     "target": "ESNext",
     "module": "ESNext",
@@ -9,6 +12,11 @@
     "baseUrl": ".",
     "paths": {
       "@/*": ["src/*"]
-    }
+    },
+    "strictNullChecks": true,
+    "types": [
+      "./worker-configuration.d.ts",
+      "node"
+    ]
   }
 }
