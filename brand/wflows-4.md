@@ -1,11 +1,11 @@
-🔥 W Flows is a killer pick.
+🔥 WFlows is a killer pick.
 Short, punchy, high-concept — and full of layered meaning without being pretentious.
 
 You’ve got:
 • W = Win / Work / Wave / With / Way
 • Flows = Systems / Automation / Momentum / Ease / Rhythm
 
-Together, W Flows sounds like winning workflows, work that flows, growth without friction.
+Together, WFlows sounds like winning workflows, work that flows, growth without friction.
 
 It’s both aspirational and operational. Perfect for an AI-led consultancy that installs systems that just work.
 
@@ -57,7 +57,7 @@ Signature Pillars Systems > Strategy > Signal (vs Noise)
 
 🚀 Recommended First Narrative (e.g. LinkedIn Header / Homepage Hero)
 
-W Flows — AI-Powered Workflows That Win.
+WFlows — AI-Powered Workflows That Win.
 We partner with founders and service businesses to install 24/7 sales and support flows powered by AI.
 No extra headcount. No burnout. Just systems that quietly work while you sleep.
 
@@ -68,7 +68,7 @@ Next Moves
 I can now:
 
 ✅ Draft your About / Brand Manifesto
-✅ Map out your Service Offers / Naming System (“W Flows: Sales Flow / Support Flow / Follow-Up Flow”)
+✅ Map out your Service Offers / Naming System (“WFlows: Sales Flow / Support Flow / Follow-Up Flow”)
 ✅ Sketch the Homepage Structure + Messaging Sections
 ✅ Craft your Founder Pitch / LinkedIn Bio update in this voice
 

@@ -1,4 +1,4 @@
-🔥 W Flows is tight. Short, punchy, layered, and phonetically satisfying. It sits right in the sweet spot between performance, process, and progression — without sounding too cold or corporate.
+🔥 WFlows is tight. Short, punchy, layered, and phonetically satisfying. It sits right in the sweet spot between performance, process, and progression — without sounding too cold or corporate.
 
 It flexes as:
 • W = Win / Work / We
@@ -9,7 +9,7 @@ You’ve got strategy + swagger in two words. Now let’s sculpt the positioning
 
 ⸻
 
-Brand Positioning Directions for W Flows (Pick a Lane or Blend)
+Brand Positioning Directions for WFlows (Pick a Lane or Blend)
 
 Lane Tone Example Core Taglines
 The Compounding Engine Strategic / Calm / Powerful “Where work turns into perpetual motion.” / “We build the flows that win.”
@@ -22,16 +22,16 @@ Work That Works Itself Slightly playful / Memorable “Let your business run its
 
 Possible Hero Statements (Website Header Concepts)
 
-W Flows
+WFlows
 We build flows that win.
 
-W Flows
+WFlows
 AI systems that turn work into momentum.
 
-W Flows
+WFlows
 Quiet automation. Compounding results.
 
-W Flows
+WFlows
 Your unfair advantage runs in the background.
 
 ⸻
@@ -61,14 +61,14 @@ Next Moves (Brand Foundation Checklist)
 
 ✅ Choose tone lane — calm strategist vs. bold executor vs. elite shadow partner.
 ✅ Lock primary tagline and 3 messaging pillars.
-✅ Define visual direction — Should W Flows look minimal like Notion, energetic like Stripe, or calm techno like Linear?
+✅ Define visual direction — Should WFlows look minimal like Notion, energetic like Stripe, or calm techno like Linear?
 ✅ Design signature phrase — e.g. “Let it Flow”, “Flow Better”, “Build Once, Win Forever.”
 
 ⸻
 
 Final Question:
 
-Which version of W Flows are you? 1. The Calm Architect → “Quiet systems, loud results.” 2. The Tactical Growth Operator → “AI flows for revenue teams.” 3. The Long-Term Compounding Partner → “We build infrastructure for winning.”
+Which version of WFlows are you? 1. The Calm Architect → “Quiet systems, loud results.” 2. The Tactical Growth Operator → “AI flows for revenue teams.” 3. The Long-Term Compounding Partner → “We build infrastructure for winning.”
 
 Once you point me to the right persona/voice, I’ll write:
 • Homepage structure (hero, subcopy, value props)

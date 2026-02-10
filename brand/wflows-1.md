@@ -1,10 +1,10 @@
-🔥 W Flows is a killer choice. It’s got energy, momentum, and built-in narrative elasticity. It already sounds like a system, a movement, and a promise of compounding advantage.
+🔥 WFlows is a killer choice. It’s got energy, momentum, and built-in narrative elasticity. It already sounds like a system, a movement, and a promise of compounding advantage.
 
 Let’s lock in the strategic framing so you can confidently go to market with it.
 
 ⸻
 
-✅ Brand Foundation: W Flows
+✅ Brand Foundation: WFlows
 
 Core Idea
 
@@ -54,7 +54,7 @@ You’re riding the wave — not resisting it.
 
 Pick your voice depending on audience (hardcore B2B vs. hybrid SaaS-style):
 
-W Flows builds AI-driven systems that turn daily operations into self-sustaining wins.
+WFlows builds AI-driven systems that turn daily operations into self-sustaining wins.
 We’re not here to give you dashboards — we install silent machines of momentum inside your sales, onboarding, support, and delivery.
 
 Less manual effort. More automatic wins. That’s the principle of Flow.

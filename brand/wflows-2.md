@@ -1,4 +1,4 @@
-🔥 W Flows is a winner. It’s got:
+🔥 WFlows is a winner. It’s got:
 • W = Win / Work / Wave / Workflow → flexible meaning, expandable positioning
 • Flows = Motion / Momentum / Systems Running / Automation
 • Dub Flows → phonetically satisfying, makes it conversational & memorable
@@ -9,7 +9,7 @@ We don’t just advise. We build winning flows.
 
 ⸻
 
-Brand Positioning Directions for W Flows
+Brand Positioning Directions for WFlows
 
 You’ll eventually want to choose 1–2 of these territories as your primary stance — but right now let’s explore.
 
@@ -46,7 +46,7 @@ Philosophical / Movement Energy
 
 Brand Story Spine (First Draft)
 
-W Flows is a growth and automation partner for modern businesses.
+WFlows is a growth and automation partner for modern businesses.
 We design winning flows — AI-powered acquisition systems, operational workflows, and decision intelligence layers that remove friction and create momentum.
 No fluff. No endless strategy decks. Just real flows that move revenue.
 
