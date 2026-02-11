@@ -1,0 +1,397 @@
+{
+  "metadata": {
+    "title": "WFlows — AI-Powered Revenue & Operations Systems",
+    "description": "We build AI-powered systems for outbound pipeline, inbound capture, and operational automation. Done for you in 30 days."
+  },
+  "nav": {
+    "services": "Services",
+    "industries": "Industries",
+    "resources": "Resources",
+    "about": "About",
+    "bookCall": "Book a Call",
+    "servicesItems": {
+      "outbound": "Outbound Systems",
+      "outboundDesc": "Generate pipeline on autopilot",
+      "inbound": "Inbound Capture",
+      "inboundDesc": "Never miss a lead again",
+      "operations": "Operations",
+      "operationsDesc": "Kill manual admin",
+      "revops": "RevOps & CRM",
+      "revopsDesc": "Clean data, smart routing"
+    },
+    "industriesItems": {
+      "dental": "Dental",
+      "dentalDesc": "DentalFlows",
+      "legal": "Legal",
+      "legalDesc": "IntakeFlows",
+      "homeServices": "Home Services",
+      "homeServicesDesc": "ServiceFlows",
+      "logistics": "Logistics",
+      "logisticsDesc": "LogisticsFlows",
+      "construction": "Construction",
+      "constructionDesc": "BuildFlows",
+      "financial": "Financial",
+      "financialDesc": "FinFlows",
+      "b2bSaas": "B2B SaaS",
+      "b2bSaasDesc": "GTM Systems"
+    },
+    "resourcesItems": {
+      "blog": "Blog",
+      "caseStudies": "Case Studies",
+      "tools": "Free ROI Calculator"
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "AI-powered systems for revenue and operations",
+      "subtitle": "for growing businesses that are done with manual work",
+      "description": "We combine AI workflows with hands-on expertise to build end-to-end systems — from outbound pipeline generation to inbound lead capture to operational automation. Done for you.",
+      "cta": "Book a Strategy Call",
+      "secondaryCta": "See how it works",
+      "pills": {
+        "outbound": "Outbound",
+        "inbound": "Inbound",
+        "revops": "AI RevOps",
+        "operations": "Operations"
+      }
+    },
+    "socialProof": {
+      "title": "Tools we work with"
+    },
+    "services": {
+      "title": "Your business needs systems that run without you",
+      "subtitle": "We build these systems into your business — so your team owns them.",
+      "outbound": {
+        "title": "Automated Outbound",
+        "description": "End-to-end outbound systems that book meetings for you.",
+        "deliverables": ["Lead sourcing & enrichment", "Multi-channel sequences", "AI personalization at scale", "Meeting booking automation"]
+      },
+      "inbound": {
+        "title": "Inbound Capture",
+        "description": "AI-powered systems that respond, qualify, and book — in under 60 seconds.",
+        "deliverables": ["AI voice & chat agents", "Speed-to-lead automation", "Smart lead routing", "After-hours capture"]
+      },
+      "revops": {
+        "title": "AI RevOps",
+        "description": "Clean pipeline data, automated handoffs, and CRM workflows that actually work.",
+        "deliverables": ["CRM hygiene automation", "Lead scoring & routing", "Pipeline analytics", "Handoff automation"]
+      },
+      "operations": {
+        "title": "Operational Workflows",
+        "description": "Kill manual admin. Automate the repetitive work your team hates.",
+        "deliverables": ["Document processing", "Data entry automation", "Workflow orchestration", "System integrations"]
+      }
+    },
+    "problem": {
+      "title": "Sound familiar?",
+      "items": [
+        {
+          "title": "Leads slip through the cracks",
+          "description": "Slow response times, missed calls, and no follow-up system. Every lost lead is lost revenue."
+        },
+        {
+          "title": "Your team drowns in manual work",
+          "description": "Copy-pasting data, updating spreadsheets, sending the same emails. Hours wasted daily."
+        },
+        {
+          "title": "Your tools don't talk to each other",
+          "description": "CRM says one thing, spreadsheets say another. No single source of truth."
+        },
+        {
+          "title": "Growth means hiring, not systems",
+          "description": "Every new client means more headcount instead of better processes."
+        }
+      ]
+    },
+    "flywheel": {
+      "title": "From lead to revenue — one connected system",
+      "subtitle": "We don't build isolated automations. We build the full cycle.",
+      "steps": [
+        "Prospect identification",
+        "Data enrichment",
+        "Outbound sequencing",
+        "Lead capture",
+        "AI qualification",
+        "Smart routing",
+        "Meeting booking",
+        "Pipeline tracking",
+        "Deal progression",
+        "Client onboarding"
+      ],
+      "foundation": "Operations foundation — workflows, integrations, and data hygiene powering everything"
+    },
+    "comparison": {
+      "title": "Why WFlows?",
+      "subtitle": "Compared to the alternatives",
+      "headers": ["", "WFlows", "SaaS Tools", "In-House Hire", "Agency", "Freelancer"],
+      "rows": [
+        { "label": "Custom to your business", "values": ["yes", "no", "yes", "partial", "partial"] },
+        { "label": "Done in under 30 days", "values": ["yes", "yes", "no", "no", "partial"] },
+        { "label": "Full-stack (outbound + inbound + ops)", "values": ["yes", "no", "partial", "partial", "no"] },
+        { "label": "You own the systems", "values": ["yes", "no", "yes", "partial", "partial"] },
+        { "label": "AI-native architecture", "values": ["yes", "partial", "partial", "no", "no"] },
+        { "label": "Ongoing optimization", "values": ["yes", "partial", "yes", "no", "no"] },
+        { "label": "Predictable cost", "values": ["yes", "yes", "no", "partial", "partial"] }
+      ]
+    },
+    "timeline": {
+      "title": "Live in 4 weeks",
+      "subtitle": "From strategy call to running system.",
+      "steps": [
+        {
+          "week": "Week 1",
+          "title": "Discovery & Architecture",
+          "description": "We map your current stack, workflows, and goals. You get a system design document."
+        },
+        {
+          "week": "Week 2",
+          "title": "Build & Integrate",
+          "description": "We build your automations, connect your tools, and configure AI agents."
+        },
+        {
+          "week": "Week 3",
+          "title": "Test & Launch",
+          "description": "We run everything in parallel with your existing process. Fix edge cases. Go live."
+        },
+        {
+          "week": "Week 4",
+          "title": "Optimize & Handoff",
+          "description": "We monitor performance, tune the system, and train your team to own it."
+        }
+      ]
+    },
+    "industries": {
+      "title": "Built for your industry",
+      "subtitle": "Every business is different. We build systems that speak your language.",
+      "items": [
+        { "name": "Dental", "brand": "DentalFlows", "slug": "dental" },
+        { "name": "Legal", "brand": "IntakeFlows", "slug": "legal" },
+        { "name": "Home Services", "brand": "ServiceFlows", "slug": "home-services" },
+        { "name": "Logistics", "brand": "LogisticsFlows", "slug": "logistics" },
+        { "name": "Construction", "brand": "BuildFlows", "slug": "construction" },
+        { "name": "Financial Services", "brand": "FinFlows", "slug": "financial" },
+        { "name": "B2B SaaS", "brand": "GTM Systems", "slug": "b2b-saas" }
+      ]
+    },
+    "proof": {
+      "title": "The numbers that matter",
+      "metrics": [
+        { "value": "<60s", "label": "Average lead response time" },
+        { "value": "3x", "label": "Outbound call rate increase" },
+        { "value": "40%", "label": "Reply rate on AI sequences" },
+        { "value": "90%", "label": "Reduction in manual data entry" }
+      ]
+    },
+    "faq": {
+      "title": "Frequently asked questions",
+      "items": [
+        {
+          "question": "How long does it take to get started?",
+          "answer": "Most systems are live within 4 weeks. We start with a strategy call to understand your needs, then build and launch in structured weekly phases."
+        },
+        {
+          "question": "Do I need to replace my current tools?",
+          "answer": "No. We work with your existing stack — HubSpot, Salesforce, Make, n8n, Instantly, and dozens more. We integrate and enhance, not replace."
+        },
+        {
+          "question": "What if I only need outbound (or only inbound)?",
+          "answer": "That's fine. Our services are modular. You can start with one system and expand later. Most clients start with outbound or inbound and add operations over time."
+        },
+        {
+          "question": "Do I own the systems you build?",
+          "answer": "Yes, 100%. Everything runs in your accounts, on your tools. We build it, you own it. No vendor lock-in."
+        },
+        {
+          "question": "How is this different from hiring a VA or an agency?",
+          "answer": "VAs do manual work. Agencies run campaigns for you. We build systems that run themselves. You get infrastructure, not headcount."
+        },
+        {
+          "question": "What industries do you work with?",
+          "answer": "We specialize in dental, legal, home services, logistics, construction, financial services, and B2B SaaS. But our systems work for any service business with a sales process."
+        },
+        {
+          "question": "What does pricing look like?",
+          "answer": "We offer tiered packages starting from a single system build. Book a strategy call for exact pricing based on your needs."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Ready to build systems that run without you?",
+      "description": "Book a free strategy call. We'll map your current workflows and show you exactly what we'd build.",
+      "cta": "Book a Strategy Call",
+      "emailFallback": "Or email us at hello@wflows.com"
+    }
+  },
+  "outbound": {
+    "hero": {
+      "title": "Automated outbound systems that book meetings for you",
+      "subtitle": "End-to-end pipeline generation — from ICP definition to booked meetings. Multi-channel. AI-powered. Built into your stack.",
+      "cta": "Book a Strategy Call"
+    },
+    "problem": {
+      "title": "Why your outbound isn't working",
+      "items": [
+        "Spray-and-pray emails landing in spam",
+        "SDRs spending 70% of time on research, not selling",
+        "No signal-based targeting — you're guessing who to reach",
+        "Tools disconnected — data lives in 5 places",
+        "Generic messages get generic results (< 1% reply rate)"
+      ]
+    },
+    "deliverables": {
+      "title": "Your complete outbound engine",
+      "categories": [
+        {
+          "title": "Foundation",
+          "items": ["ICP Modeling — Define exactly who to target", "TAM Mapping — Build your total addressable market", "Buying Signal Detection — Know WHEN to reach out"]
+        },
+        {
+          "title": "Infrastructure",
+          "items": ["Email Infrastructure — Domains, warmup, deliverability", "Tool Stack Setup — Clay, Instantly, HubSpot, or your tools", "CRM Integration — Everything syncs automatically"]
+        },
+        {
+          "title": "Execution",
+          "items": ["Lead Sourcing — From 30+ data sources", "Data Enrichment — Firmographics, technographics, contacts", "Lead Scoring — AI-powered qualification", "Personalized Copywriting — AI-assisted, human-reviewed", "Multi-Channel Campaigns — Email + LinkedIn + SMS"]
+        },
+        {
+          "title": "Optimization",
+          "items": ["A/B Testing — Messaging, subject lines, targeting", "Signal Monitoring — Funding, hiring, tech changes", "Reply Management — AI-drafted responses", "Monthly Reporting — Pipeline attribution"]
+        }
+      ]
+    },
+    "timeline": {
+      "title": "From setup to booked meetings",
+      "steps": [
+        { "week": "Week 1", "title": "ICP Workshop + Infrastructure", "description": "We define your ideal customer profile, set up domains, warm up inboxes, and configure your tool stack." },
+        { "week": "Week 2", "title": "First Campaigns Built", "description": "Signal-based campaigns designed, copy written, multi-channel sequences configured and tested." },
+        { "week": "Week 3", "title": "Campaigns Live", "description": "First outbound messages sent. Replies start coming in. AI handles initial responses." },
+        { "week": "Week 4+", "title": "Optimize & Scale", "description": "A/B test messaging, add new signals, scale winning campaigns. Monthly reporting." }
+      ]
+    },
+    "comparison": {
+      "title": "This isn't another email blast service",
+      "headers": ["", "WFlows", "Outbound Agency", "Hiring an SDR"],
+      "rows": [
+        { "label": "Signal-based targeting", "values": ["yes", "no", "no"] },
+        { "label": "Multi-channel (Email + LinkedIn + SMS)", "values": ["yes", "partial", "no"] },
+        { "label": "AI personalization at scale", "values": ["yes", "no", "no"] },
+        { "label": "You own the system", "values": ["yes", "no", "yes"] },
+        { "label": "Infrastructure setup included", "values": ["yes", "no", "no"] },
+        { "label": "Time to first meeting", "values": ["14 days", "30-60 days", "90+ days"] }
+      ]
+    },
+    "faq": {
+      "title": "Outbound FAQ",
+      "items": [
+        { "question": "What tools do you use?", "answer": "Clay for enrichment, Instantly or Smartlead for email, HeyReach or Expandi for LinkedIn, and your CRM for pipeline tracking. We work with your existing stack or set up what's needed." },
+        { "question": "How many emails/messages per month?", "answer": "Depends on your ICP size and campaign strategy. Typical setups handle 5,000-20,000 personalized touchpoints per month across channels." },
+        { "question": "Do you write the copy?", "answer": "Yes. We write all campaign copy — subject lines, email sequences, LinkedIn messages. AI-assisted, human-reviewed for quality." },
+        { "question": "How do you avoid spam?", "answer": "Dedicated domains, proper warmup, SPF/DKIM/DMARC setup, sending limits, and content optimization. Deliverability is built into the infrastructure." },
+        { "question": "Can you work with our existing CRM?", "answer": "Yes. We integrate with HubSpot, Salesforce, Pipedrive, and most major CRMs. Everything syncs automatically." },
+        { "question": "How is this different from using Clay/Instantly directly?", "answer": "Those are tools. We build the system — strategy, infrastructure, campaigns, optimization, and reporting. You get a complete outbound engine, not just software." }
+      ]
+    },
+    "cta": {
+      "title": "Ready to build your outbound pipeline?",
+      "description": "Book a strategy call to see if automated outbound systems are right for your business.",
+      "ctaLabel": "Book a Strategy Call"
+    }
+  },
+  "b2bSaas": {
+    "hero": {
+      "title": "Build your outbound pipeline — without hiring more SDRs",
+      "subtitle": "We build AI-powered GTM systems that find, enrich, and engage your ideal customers — multi-channel, signal-based, fully done for you. Live in 14 days.",
+      "cta": "Book a Strategy Call"
+    },
+    "problem": {
+      "title": "Your GTM stack is broken. Here's how you know.",
+      "heroMetric": "B2B companies using signal-based outbound see 3-5x higher reply rates than generic campaigns.",
+      "items": [
+        "\"We've tried cold email — everything lands in spam.\"",
+        "\"Our SDR spends all day researching instead of selling.\"",
+        "\"We have Clay / Instantly / Apollo but can't make them work together.\""
+      ]
+    },
+    "howItWorks": {
+      "title": "How it works",
+      "steps": [
+        { "step": "Step 1", "title": "Audit & Define", "description": "We audit your GTM stack and define your ICP with precision." },
+        { "step": "Step 2", "title": "Build Infrastructure", "description": "We build your outbound infrastructure — tools, domains, enrichment pipelines." },
+        { "step": "Step 3", "title": "Launch Campaigns", "description": "We launch signal-based campaigns across email + LinkedIn." }
+      ],
+      "timelineNote": "First campaigns live in 14 days."
+    },
+    "whatYouGet": {
+      "title": "What you get",
+      "items": [
+        { "deliverable": "ICP model + TAM map", "meaning": "Know exactly who to target" },
+        { "deliverable": "Email infrastructure", "meaning": "Land in inbox, not spam" },
+        { "deliverable": "Lead sourcing from 30+ providers", "meaning": "Find accounts nobody else reaches" },
+        { "deliverable": "AI-powered enrichment + scoring", "meaning": "Only pursue high-fit leads" },
+        { "deliverable": "Multi-channel campaigns", "meaning": "Multiple touchpoints, higher conversion" },
+        { "deliverable": "Signal detection", "meaning": "Reach out when they're ready to buy" },
+        { "deliverable": "CRM sync + pipeline tracking", "meaning": "Full visibility into what's working" },
+        { "deliverable": "Monthly optimization + reporting", "meaning": "System improves every month" }
+      ]
+    },
+    "guarantee": {
+      "title": "Our guarantee",
+      "text": "If the pilot doesn't generate qualified replies within 30 days, you don't pay."
+    },
+    "socialProof": {
+      "title": "Industry benchmarks",
+      "text": "B2B companies using signal-based outbound with Clay report 4-8 meetings booked per 100 signals detected."
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": [
+        { "question": "What tools do you use?", "answer": "Clay for enrichment, Instantly or Smartlead for email, HeyReach or Expandi for LinkedIn, your CRM for pipeline. We work with your existing stack or set up what's needed." },
+        { "question": "How is this different from hiring an SDR?", "answer": "An SDR costs $70K+/year, needs 3 months to ramp, and can only personalize ~30 emails/day. Our systems send thousands of personalized messages, detect buying signals automatically, and book meetings while your team focuses on closing." },
+        { "question": "How many meetings can I expect?", "answer": "Depends on your ICP, market size, and offer. Typical results for signal-based campaigns: 3-8 meetings per 100 signals detected. We'll give you realistic projections during the strategy call." },
+        { "question": "Do I need Clay / Instantly already?", "answer": "No. We set up everything. Tool costs are separate (typically $300-$800/month total for the full stack)." }
+      ]
+    },
+    "cta": {
+      "title": "Your competitors are already using signal-based outbound. Let's build yours.",
+      "ctaLabel": "Book a Strategy Call"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Built by someone who's been in the trenches",
+      "subtitle": "8+ years in fintech and SaaS. Now building AI-powered revenue and operations systems for growing businesses."
+    },
+    "mission": {
+      "title": "Our mission",
+      "text": "Make AI infrastructure accessible to growing businesses. Not just the enterprise players — every company that needs better systems deserves them."
+    },
+    "howWeWork": {
+      "title": "How we work",
+      "subtitle": "Three principles that guide every engagement.",
+      "steps": [
+        { "title": "Diagnose first", "description": "We never build blind. Every project starts with a deep audit of your current stack, workflows, and goals." },
+        { "title": "Build with you", "description": "We build systems in YOUR tools, on YOUR accounts. You own everything we create." },
+        { "title": "Optimize forever", "description": "Launch is just the beginning. We monitor, tune, and improve your systems continuously." }
+      ]
+    },
+    "values": {
+      "title": "What we stand for",
+      "items": [
+        { "title": "Clear, not clever", "description": "We explain everything in plain language. No jargon, no black boxes." },
+        { "title": "Outcomes over tools", "description": "We don't sell software. We deliver systems that produce measurable results." },
+        { "title": "Engineer trust", "description": "If it won't work for you, we'll tell you. We'd rather lose a deal than deliver a bad system." },
+        { "title": "Own the craft", "description": "We stay at the cutting edge of AI and automation — so you don't have to." }
+      ]
+    },
+    "cta": {
+      "title": "Let's build something together",
+      "description": "Book a strategy call and we'll show you exactly how we can help your business.",
+      "ctaLabel": "Book a Strategy Call"
+    }
+  },
+  "footer": {
+    "copyright": "WFlows. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}

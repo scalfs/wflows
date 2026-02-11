@@ -1,0 +1,111 @@
+Privacy Policy
+Last Updated: July 6th, 2025
+
+1. Introduction
+Workflows Agency LLC ("Workflows.io", "we", "us", or "our") is committed to protecting your privacy and personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website and use our marketing automation services.
+
+We collect personal data about you such as your name, email address, and company information when you complete forms on our website or contact us for any reason. We may also collect additional information if you voluntarily provide it during your interactions with us.
+
+We monitor website usage including page visits, time spent on site, traffic patterns, and location data to help us understand our users and improve our services. This information may be aggregated or statistical, meaning we cannot identify you individually.
+
+2. Information We Collect
+We collect information that you provide directly to us, including:
+
+Contact information (name, email address, phone number, company name)
+Project requirements and business goals
+Messages and communications through our website forms
+Information shared during consultations and discovery calls
+We automatically collect certain information when you visit our website:
+
+Website usage data (pages visited, time spent, navigation patterns)
+Technical information (IP address, browser type, device information)
+Analytics data to improve website performance
+3. How We Use Your Information
+We use your personal information for the following purposes:
+
+To provide our marketing automation and workflow optimization services
+To communicate with you about projects and respond to inquiries
+To understand your business needs and deliver customized solutions
+To improve our website and service offerings
+To send marketing communications (with your consent)
+To comply with legal obligations and protect our rights
+For administrative purposes and maintaining client relationships
+4. Marketing Communications
+We may contact you via email, phone, mail, or other methods about our services that may interest you, unless you have opted out. You can unsubscribe from marketing communications at any time by following the instructions in our emails or contacting us directly.
+
+5. Information Sharing
+We do not sell your personal information to third parties. We may share your information only in the following circumstances:
+
+With service providers who help us operate our website and business (hosting, analytics, email services)
+With trusted contractors who assist with project delivery
+When required by law or to protect our rights and safety
+In connection with a business transfer or merger
+All third parties are required to keep your information confidential and use it only for specified purposes.
+
+6. Data Security
+We implement reasonable security measures to protect your personal information, including:
+
+Secure hosting with reputable providers
+Access controls limiting who can view your information
+Regular security updates and monitoring
+Encrypted connections for data transmission
+While we strive to protect your data, no internet transmission is completely secure, and we cannot guarantee absolute security.
+
+7. Your Rights and Choices
+You have the following rights regarding your personal information:
+
+Access: Request a copy of the personal information we hold about you
+Correction: Ask us to update or correct inaccurate information
+Deletion: Request that we delete your personal information
+Opt-out: Unsubscribe from marketing communications
+Restriction: Limit how we process your information
+To exercise these rights, contact us at team@workflows.io. We will respond within 30 days.
+
+8. Cookies and Tracking
+We use cookies and similar technologies to:
+
+Remember your preferences and improve user experience
+Analyze website traffic and visitor behavior
+Measure marketing effectiveness
+Provide relevant content
+You can control cookies through your browser settings, though disabling cookies may affect website functionality.
+
+9. Data Retention
+We retain your information for as long as necessary to:
+
+Provide our services and maintain business relationships
+Comply with legal requirements
+Resolve disputes
+Specific retention periods:
+
+Contact and project data: 7 years for business records
+Marketing data: Until you unsubscribe or request deletion
+Website analytics: Aggregated data retained indefinitely
+10. Third-Party Information
+If you provide information about someone else, you confirm that person has authorized you to:
+
+Give consent on their behalf for processing their personal data
+Receive data protection notices on their behalf
+11. Children's Privacy
+Our services are not intended for individuals under 18 years of age. We do not knowingly collect personal information from children under 16.
+
+12. International Data Transfers
+Your information may be transferred to and processed in countries outside your jurisdiction, including the United States. We ensure appropriate protections are in place for such transfers.
+
+13. GDPR Rights (EU Residents)
+If you are in the European Union, you have additional rights under GDPR:
+
+Withdraw consent at any time
+Object to processing of your data
+Data portability (receive your data in machine-readable format)
+Lodge complaints with data protection authorities
+14. Changes to This Policy
+We may update this Privacy Policy periodically. We will notify you of material changes by posting the updated policy on our website. Your continued use of our services constitutes acceptance of the updated policy.
+
+15. Contact Information
+For questions about this Privacy Policy or to exercise your rights, contact us at:
+
+Email: team@workflows.io
+Website: workflows.io
+
+‍

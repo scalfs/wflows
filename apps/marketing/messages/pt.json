@@ -1,0 +1,397 @@
+{
+  "metadata": {
+    "title": "WFlows — Sistemas de Receita e Operações com IA",
+    "description": "Construímos sistemas com IA para prospecção outbound, captação inbound e automação operacional. Pronto em 30 dias."
+  },
+  "nav": {
+    "services": "Serviços",
+    "industries": "Indústrias",
+    "resources": "Recursos",
+    "about": "Sobre",
+    "bookCall": "Agende uma Reunião",
+    "servicesItems": {
+      "outbound": "Sistemas Outbound",
+      "outboundDesc": "Gere pipeline no automático",
+      "inbound": "Captação Inbound",
+      "inboundDesc": "Nunca perca um lead",
+      "operations": "Operações",
+      "operationsDesc": "Elimine trabalho manual",
+      "revops": "RevOps & CRM",
+      "revopsDesc": "Dados limpos, roteamento inteligente"
+    },
+    "industriesItems": {
+      "dental": "Odontologia",
+      "dentalDesc": "DentalFlows",
+      "legal": "Jurídico",
+      "legalDesc": "IntakeFlows",
+      "homeServices": "Serviços Residenciais",
+      "homeServicesDesc": "ServiceFlows",
+      "logistics": "Logística",
+      "logisticsDesc": "LogisticsFlows",
+      "construction": "Construção",
+      "constructionDesc": "BuildFlows",
+      "financial": "Financeiro",
+      "financialDesc": "FinFlows",
+      "b2bSaas": "B2B SaaS",
+      "b2bSaasDesc": "Sistemas GTM"
+    },
+    "resourcesItems": {
+      "blog": "Blog",
+      "caseStudies": "Cases de Sucesso",
+      "tools": "Calculadora de ROI Grátis"
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Sistemas com IA para receita e operações",
+      "subtitle": "para empresas em crescimento que estão cansadas de trabalho manual",
+      "description": "Combinamos workflows de IA com expertise prática para construir sistemas completos — da geração de pipeline outbound à captação de leads inbound até automação operacional. Feito para você.",
+      "cta": "Agende uma Reunião Estratégica",
+      "secondaryCta": "Veja como funciona",
+      "pills": {
+        "outbound": "Outbound",
+        "inbound": "Inbound",
+        "revops": "IA RevOps",
+        "operations": "Operações"
+      }
+    },
+    "socialProof": {
+      "title": "Ferramentas que utilizamos"
+    },
+    "services": {
+      "title": "Sua empresa precisa de sistemas que rodam sozinhos",
+      "subtitle": "Construímos esses sistemas no seu negócio — para que sua equipe seja a dona.",
+      "outbound": {
+        "title": "Outbound Automatizado",
+        "description": "Sistemas outbound completos que agendam reuniões para você.",
+        "deliverables": ["Sourcing e enriquecimento de leads", "Sequências multicanal", "Personalização com IA em escala", "Automação de agendamento"]
+      },
+      "inbound": {
+        "title": "Captação Inbound",
+        "description": "Sistemas com IA que respondem, qualificam e agendam — em menos de 60 segundos.",
+        "deliverables": ["Agentes de voz e chat com IA", "Automação speed-to-lead", "Roteamento inteligente", "Captação fora do horário"]
+      },
+      "revops": {
+        "title": "IA RevOps",
+        "description": "Dados de pipeline limpos, handoffs automatizados e workflows de CRM que realmente funcionam.",
+        "deliverables": ["Automação de higiene do CRM", "Scoring e roteamento de leads", "Analytics de pipeline", "Automação de handoff"]
+      },
+      "operations": {
+        "title": "Workflows Operacionais",
+        "description": "Elimine trabalho manual. Automatize o trabalho repetitivo que sua equipe odeia.",
+        "deliverables": ["Processamento de documentos", "Automação de entrada de dados", "Orquestração de workflows", "Integrações de sistemas"]
+      }
+    },
+    "problem": {
+      "title": "Soa familiar?",
+      "items": [
+        {
+          "title": "Leads escapam pelas brechas",
+          "description": "Tempo de resposta lento, chamadas perdidas e sem sistema de follow-up. Cada lead perdido é receita perdida."
+        },
+        {
+          "title": "Sua equipe se afoga em trabalho manual",
+          "description": "Copiando dados, atualizando planilhas, enviando os mesmos emails. Horas desperdiçadas diariamente."
+        },
+        {
+          "title": "Suas ferramentas não se comunicam",
+          "description": "O CRM diz uma coisa, as planilhas dizem outra. Sem fonte única de verdade."
+        },
+        {
+          "title": "Crescimento significa contratar, não sistematizar",
+          "description": "Cada novo cliente significa mais contratações em vez de melhores processos."
+        }
+      ]
+    },
+    "flywheel": {
+      "title": "Do lead à receita — um sistema conectado",
+      "subtitle": "Não construímos automações isoladas. Construímos o ciclo completo.",
+      "steps": [
+        "Identificação de prospects",
+        "Enriquecimento de dados",
+        "Sequenciamento outbound",
+        "Captação de leads",
+        "Qualificação com IA",
+        "Roteamento inteligente",
+        "Agendamento de reuniões",
+        "Tracking de pipeline",
+        "Progressão de deals",
+        "Onboarding de clientes"
+      ],
+      "foundation": "Base operacional — workflows, integrações e higiene de dados que alimentam tudo"
+    },
+    "comparison": {
+      "title": "Por que WFlows?",
+      "subtitle": "Comparado às alternativas",
+      "headers": ["", "WFlows", "Ferramentas SaaS", "Contratação Interna", "Agência", "Freelancer"],
+      "rows": [
+        { "label": "Personalizado para seu negócio", "values": ["yes", "no", "yes", "partial", "partial"] },
+        { "label": "Pronto em menos de 30 dias", "values": ["yes", "yes", "no", "no", "partial"] },
+        { "label": "Full-stack (outbound + inbound + ops)", "values": ["yes", "no", "partial", "partial", "no"] },
+        { "label": "Você é dono dos sistemas", "values": ["yes", "no", "yes", "partial", "partial"] },
+        { "label": "Arquitetura AI-native", "values": ["yes", "partial", "partial", "no", "no"] },
+        { "label": "Otimização contínua", "values": ["yes", "partial", "yes", "no", "no"] },
+        { "label": "Custo previsível", "values": ["yes", "yes", "no", "partial", "partial"] }
+      ]
+    },
+    "timeline": {
+      "title": "No ar em 4 semanas",
+      "subtitle": "Da reunião estratégica ao sistema rodando.",
+      "steps": [
+        {
+          "week": "Semana 1",
+          "title": "Discovery e Arquitetura",
+          "description": "Mapeamos seu stack atual, workflows e objetivos. Você recebe um documento de design do sistema."
+        },
+        {
+          "week": "Semana 2",
+          "title": "Construção e Integração",
+          "description": "Construímos suas automações, conectamos suas ferramentas e configuramos agentes de IA."
+        },
+        {
+          "week": "Semana 3",
+          "title": "Teste e Lançamento",
+          "description": "Rodamos tudo em paralelo com seu processo atual. Corrigimos edge cases. Go live."
+        },
+        {
+          "week": "Semana 4",
+          "title": "Otimização e Handoff",
+          "description": "Monitoramos performance, ajustamos o sistema e treinamos sua equipe para operá-lo."
+        }
+      ]
+    },
+    "industries": {
+      "title": "Feito para sua indústria",
+      "subtitle": "Cada negócio é diferente. Construímos sistemas que falam a sua língua.",
+      "items": [
+        { "name": "Odontologia", "brand": "DentalFlows", "slug": "dental" },
+        { "name": "Jurídico", "brand": "IntakeFlows", "slug": "legal" },
+        { "name": "Serviços Residenciais", "brand": "ServiceFlows", "slug": "home-services" },
+        { "name": "Logística", "brand": "LogisticsFlows", "slug": "logistics" },
+        { "name": "Construção", "brand": "BuildFlows", "slug": "construction" },
+        { "name": "Serviços Financeiros", "brand": "FinFlows", "slug": "financial" },
+        { "name": "B2B SaaS", "brand": "Sistemas GTM", "slug": "b2b-saas" }
+      ]
+    },
+    "proof": {
+      "title": "Os números que importam",
+      "metrics": [
+        { "value": "<60s", "label": "Tempo médio de resposta ao lead" },
+        { "value": "3x", "label": "Aumento na taxa de ligações outbound" },
+        { "value": "40%", "label": "Taxa de resposta em sequências com IA" },
+        { "value": "90%", "label": "Redução em entrada manual de dados" }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas frequentes",
+      "items": [
+        {
+          "question": "Quanto tempo leva para começar?",
+          "answer": "A maioria dos sistemas fica pronta em 4 semanas. Começamos com uma reunião estratégica para entender suas necessidades, depois construímos e lançamos em fases semanais estruturadas."
+        },
+        {
+          "question": "Preciso trocar minhas ferramentas atuais?",
+          "answer": "Não. Trabalhamos com seu stack existente — HubSpot, Salesforce, Make, n8n, Instantly e dezenas mais. Integramos e melhoramos, não substituímos."
+        },
+        {
+          "question": "E se eu precisar apenas de outbound (ou apenas inbound)?",
+          "answer": "Sem problema. Nossos serviços são modulares. Você pode começar com um sistema e expandir depois. A maioria dos clientes começa com outbound ou inbound e adiciona operações ao longo do tempo."
+        },
+        {
+          "question": "Eu sou dono dos sistemas que vocês constroem?",
+          "answer": "Sim, 100%. Tudo roda nas suas contas, nas suas ferramentas. Nós construímos, você é o dono. Sem vendor lock-in."
+        },
+        {
+          "question": "Como isso é diferente de contratar um VA ou uma agência?",
+          "answer": "VAs fazem trabalho manual. Agências rodam campanhas para você. Nós construímos sistemas que rodam sozinhos. Você ganha infraestrutura, não headcount."
+        },
+        {
+          "question": "Com quais indústrias vocês trabalham?",
+          "answer": "Somos especializados em odontologia, jurídico, serviços residenciais, logística, construção, serviços financeiros e B2B SaaS. Mas nossos sistemas funcionam para qualquer negócio de serviços com processo de vendas."
+        },
+        {
+          "question": "Como funciona o preço?",
+          "answer": "Oferecemos pacotes por níveis, começando com a construção de um sistema individual. Agende uma reunião estratégica para preços exatos baseados nas suas necessidades."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Pronto para construir sistemas que rodam sem você?",
+      "description": "Agende uma reunião estratégica gratuita. Vamos mapear seus workflows atuais e mostrar exatamente o que construiríamos.",
+      "cta": "Agende uma Reunião Estratégica",
+      "emailFallback": "Ou envie um email para hello@wflows.com"
+    }
+  },
+  "outbound": {
+    "hero": {
+      "title": "Sistemas outbound automatizados que agendam reuniões para você",
+      "subtitle": "Geração de pipeline completa — da definição de ICP a reuniões agendadas. Multicanal. Com IA. Integrado ao seu stack.",
+      "cta": "Agende uma Reunião Estratégica"
+    },
+    "problem": {
+      "title": "Por que seu outbound não funciona",
+      "items": [
+        "Emails genéricos caindo no spam",
+        "SDRs gastando 70% do tempo pesquisando, não vendendo",
+        "Sem targeting baseado em sinais — você está adivinhando quem abordar",
+        "Ferramentas desconectadas — dados em 5 lugares diferentes",
+        "Mensagens genéricas geram resultados genéricos (< 1% taxa de resposta)"
+      ]
+    },
+    "deliverables": {
+      "title": "Seu motor outbound completo",
+      "categories": [
+        {
+          "title": "Fundação",
+          "items": ["Modelagem de ICP — Defina exatamente quem abordar", "Mapeamento de TAM — Construa seu mercado endereçável", "Detecção de Sinais de Compra — Saiba QUANDO abordar"]
+        },
+        {
+          "title": "Infraestrutura",
+          "items": ["Infraestrutura de Email — Domínios, warmup, entregabilidade", "Setup de Ferramentas — Clay, Instantly, HubSpot ou suas ferramentas", "Integração com CRM — Tudo sincroniza automaticamente"]
+        },
+        {
+          "title": "Execução",
+          "items": ["Sourcing de Leads — De 30+ fontes de dados", "Enriquecimento de Dados — Firmográficos, tecnográficos, contatos", "Scoring de Leads — Qualificação com IA", "Copywriting Personalizado — Assistido por IA, revisado por humanos", "Campanhas Multicanal — Email + LinkedIn + SMS"]
+        },
+        {
+          "title": "Otimização",
+          "items": ["Testes A/B — Mensagens, assuntos, targeting", "Monitoramento de Sinais — Funding, contratações, mudanças tech", "Gestão de Respostas — Rascunhos com IA", "Relatórios Mensais — Atribuição de pipeline"]
+        }
+      ]
+    },
+    "timeline": {
+      "title": "Do setup às reuniões agendadas",
+      "steps": [
+        { "week": "Semana 1", "title": "Workshop de ICP + Infraestrutura", "description": "Definimos seu perfil de cliente ideal, configuramos domínios, aquecemos inboxes e configuramos suas ferramentas." },
+        { "week": "Semana 2", "title": "Primeiras Campanhas Construídas", "description": "Campanhas baseadas em sinais desenhadas, copy escrito, sequências multicanal configuradas e testadas." },
+        { "week": "Semana 3", "title": "Campanhas no Ar", "description": "Primeiras mensagens outbound enviadas. Respostas começam a chegar. IA gerencia respostas iniciais." },
+        { "week": "Semana 4+", "title": "Otimizar e Escalar", "description": "Testes A/B de mensagens, novos sinais, escalar campanhas vencedoras. Relatórios mensais." }
+      ]
+    },
+    "comparison": {
+      "title": "Isso não é mais um serviço de email blast",
+      "headers": ["", "WFlows", "Agência Outbound", "Contratar SDR"],
+      "rows": [
+        { "label": "Targeting baseado em sinais", "values": ["yes", "no", "no"] },
+        { "label": "Multicanal (Email + LinkedIn + SMS)", "values": ["yes", "partial", "no"] },
+        { "label": "Personalização com IA em escala", "values": ["yes", "no", "no"] },
+        { "label": "Você é dono do sistema", "values": ["yes", "no", "yes"] },
+        { "label": "Setup de infraestrutura incluso", "values": ["yes", "no", "no"] },
+        { "label": "Tempo até primeira reunião", "values": ["14 dias", "30-60 dias", "90+ dias"] }
+      ]
+    },
+    "faq": {
+      "title": "FAQ Outbound",
+      "items": [
+        { "question": "Quais ferramentas vocês usam?", "answer": "Clay para enriquecimento, Instantly ou Smartlead para email, HeyReach ou Expandi para LinkedIn, e seu CRM para tracking de pipeline. Trabalhamos com seu stack existente ou configuramos o necessário." },
+        { "question": "Quantos emails/mensagens por mês?", "answer": "Depende do tamanho do seu ICP e estratégia de campanha. Setups típicos lidam com 5.000-20.000 touchpoints personalizados por mês entre canais." },
+        { "question": "Vocês escrevem o copy?", "answer": "Sim. Escrevemos todo o copy das campanhas — assuntos, sequências de email, mensagens do LinkedIn. Assistido por IA, revisado por humanos." },
+        { "question": "Como vocês evitam spam?", "answer": "Domínios dedicados, warmup adequado, setup de SPF/DKIM/DMARC, limites de envio e otimização de conteúdo. Entregabilidade é parte da infraestrutura." },
+        { "question": "Conseguem trabalhar com nosso CRM atual?", "answer": "Sim. Integramos com HubSpot, Salesforce, Pipedrive e a maioria dos CRMs. Tudo sincroniza automaticamente." },
+        { "question": "Como isso é diferente de usar Clay/Instantly diretamente?", "answer": "Essas são ferramentas. Nós construímos o sistema — estratégia, infraestrutura, campanhas, otimização e relatórios. Você ganha um motor outbound completo, não apenas software." }
+      ]
+    },
+    "cta": {
+      "title": "Pronto para construir seu pipeline outbound?",
+      "description": "Agende uma reunião estratégica para ver se sistemas outbound automatizados são certos para seu negócio.",
+      "ctaLabel": "Agende uma Reunião Estratégica"
+    }
+  },
+  "b2bSaas": {
+    "hero": {
+      "title": "Construa seu pipeline outbound — sem contratar mais SDRs",
+      "subtitle": "Construímos sistemas GTM com IA que encontram, enriquecem e engajam seus clientes ideais — multicanal, baseado em sinais, totalmente feito para você. No ar em 14 dias.",
+      "cta": "Agende uma Reunião Estratégica"
+    },
+    "problem": {
+      "title": "Seu stack de GTM está quebrado. Veja como você sabe.",
+      "heroMetric": "Empresas B2B usando outbound baseado em sinais veem taxas de resposta 3-5x maiores que campanhas genéricas.",
+      "items": [
+        "\"Tentamos cold email — tudo cai no spam.\"",
+        "\"Nosso SDR passa o dia inteiro pesquisando em vez de vender.\"",
+        "\"Temos Clay / Instantly / Apollo mas não conseguimos fazê-los funcionar juntos.\""
+      ]
+    },
+    "howItWorks": {
+      "title": "Como funciona",
+      "steps": [
+        { "step": "Passo 1", "title": "Auditoria e Definição", "description": "Auditamos seu stack GTM e definimos seu ICP com precisão." },
+        { "step": "Passo 2", "title": "Construir Infraestrutura", "description": "Construímos sua infraestrutura outbound — ferramentas, domínios, pipelines de enriquecimento." },
+        { "step": "Passo 3", "title": "Lançar Campanhas", "description": "Lançamos campanhas baseadas em sinais via email + LinkedIn." }
+      ],
+      "timelineNote": "Primeiras campanhas no ar em 14 dias."
+    },
+    "whatYouGet": {
+      "title": "O que você recebe",
+      "items": [
+        { "deliverable": "Modelo de ICP + mapa de TAM", "meaning": "Saiba exatamente quem abordar" },
+        { "deliverable": "Infraestrutura de email", "meaning": "Chegue na inbox, não no spam" },
+        { "deliverable": "Sourcing de leads de 30+ provedores", "meaning": "Encontre contas que ninguém mais alcança" },
+        { "deliverable": "Enriquecimento + scoring com IA", "meaning": "Persiga apenas leads de alto fit" },
+        { "deliverable": "Campanhas multicanal", "meaning": "Múltiplos touchpoints, maior conversão" },
+        { "deliverable": "Detecção de sinais", "meaning": "Aborde quando estiverem prontos para comprar" },
+        { "deliverable": "Sync com CRM + tracking de pipeline", "meaning": "Visibilidade total do que está funcionando" },
+        { "deliverable": "Otimização + relatórios mensais", "meaning": "O sistema melhora todo mês" }
+      ]
+    },
+    "guarantee": {
+      "title": "Nossa garantia",
+      "text": "Se o piloto não gerar respostas qualificadas em 30 dias, você não paga."
+    },
+    "socialProof": {
+      "title": "Benchmarks da indústria",
+      "text": "Empresas B2B usando outbound baseado em sinais com Clay reportam 4-8 reuniões agendadas por 100 sinais detectados."
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": [
+        { "question": "Quais ferramentas vocês usam?", "answer": "Clay para enriquecimento, Instantly ou Smartlead para email, HeyReach ou Expandi para LinkedIn, seu CRM para pipeline. Trabalhamos com seu stack existente ou configuramos o necessário." },
+        { "question": "Como isso é diferente de contratar um SDR?", "answer": "Um SDR custa R$120K+/ano, precisa de 3 meses para ramp up e consegue personalizar ~30 emails/dia. Nossos sistemas enviam milhares de mensagens personalizadas, detectam sinais de compra automaticamente e agendam reuniões enquanto sua equipe foca em fechar negócios." },
+        { "question": "Quantas reuniões posso esperar?", "answer": "Depende do seu ICP, tamanho de mercado e oferta. Resultados típicos para campanhas baseadas em sinais: 3-8 reuniões por 100 sinais detectados. Daremos projeções realistas na reunião estratégica." },
+        { "question": "Preciso ter Clay / Instantly?", "answer": "Não. Configuramos tudo. Custos de ferramentas são separados (tipicamente $300-$800/mês no total para o stack completo)." }
+      ]
+    },
+    "cta": {
+      "title": "Seus concorrentes já estão usando outbound baseado em sinais. Vamos construir o seu.",
+      "ctaLabel": "Agende uma Reunião Estratégica"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Construído por quem já esteve nas trincheiras",
+      "subtitle": "8+ anos em fintech e SaaS. Agora construindo sistemas de receita e operações com IA para empresas em crescimento."
+    },
+    "mission": {
+      "title": "Nossa missão",
+      "text": "Tornar infraestrutura de IA acessível para empresas em crescimento. Não apenas para as grandes corporações — toda empresa que precisa de sistemas melhores merece tê-los."
+    },
+    "howWeWork": {
+      "title": "Como trabalhamos",
+      "subtitle": "Três princípios que guiam cada projeto.",
+      "steps": [
+        { "title": "Diagnosticar primeiro", "description": "Nunca construímos às cegas. Todo projeto começa com uma auditoria profunda do seu stack atual, workflows e objetivos." },
+        { "title": "Construir com você", "description": "Construímos sistemas nas SUAS ferramentas, nas SUAS contas. Você é dono de tudo que criamos." },
+        { "title": "Otimizar sempre", "description": "O lançamento é só o começo. Monitoramos, ajustamos e melhoramos seus sistemas continuamente." }
+      ]
+    },
+    "values": {
+      "title": "No que acreditamos",
+      "items": [
+        { "title": "Claro, não esperto", "description": "Explicamos tudo em linguagem simples. Sem jargão, sem caixas pretas." },
+        { "title": "Resultados acima de ferramentas", "description": "Não vendemos software. Entregamos sistemas que produzem resultados mensuráveis." },
+        { "title": "Confiança é construída", "description": "Se não vai funcionar para você, vamos te dizer. Preferimos perder um negócio do que entregar um sistema ruim." },
+        { "title": "Dominar o ofício", "description": "Ficamos na vanguarda de IA e automação — para que você não precise." }
+      ]
+    },
+    "cta": {
+      "title": "Vamos construir algo juntos",
+      "description": "Agende uma reunião estratégica e mostraremos exatamente como podemos ajudar seu negócio.",
+      "ctaLabel": "Agende uma Reunião Estratégica"
+    }
+  },
+  "footer": {
+    "copyright": "WFlows. Todos os direitos reservados.",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Serviço"
+  }
+}
