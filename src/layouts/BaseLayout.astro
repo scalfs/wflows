@@ -1,8 +1,8 @@
 ---
 import "../styles/global.css";
-import BaseHead from "@/components/BaseHead.astro";
-import Navigation from "@/components/global/Navigation.astro";
-import Footer from "@/components/global/Footer.astro";
+import Nav from "@/components/Nav.astro";
+import Footer from "@/components/Footer.astro";
+import Modal from "@/components/Modal.astro";
 
 export interface Props {
   title?: string;
@@ -13,40 +13,20 @@ const { title, description } = Astro.props;
 ---
 
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="en">
   <head>
-    <BaseHead title={title} description={description} />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title ?? "WFlows — Quiet automation. Loud results."}</title>
+    <meta name="description" content={description ?? "AI agents and GTM infrastructure for B2B teams that mean it."} />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet">
   </head>
-  <body class="flex flex-col min-h-screen">
-    <Navigation />
-    <main class="flex-grow pt-16">
-      <slot />
-    </main>
+  <body>
+    <Nav />
+    <slot />
     <Footer />
-
-    <!-- Scroll Reveal Animation Script -->
-    <script>
-      // Intersection Observer for scroll-triggered animations
-      const observerOptions = {
-        threshold: 0.1,
-        rootMargin: '0px 0px -50px 0px'
-      };
-
-      const observer = new IntersectionObserver((entries) => {
-        entries.forEach(entry => {
-          if (entry.isIntersecting) {
-            entry.target.classList.add('revealed');
-            // Optionally unobserve after reveal for performance
-            observer.unobserve(entry.target);
-          }
-        });
-      }, observerOptions);
-
-      // Observe all elements with scroll-reveal class
-      document.addEventListener('DOMContentLoaded', () => {
-        const revealElements = document.querySelectorAll('.scroll-reveal');
-        revealElements.forEach(el => observer.observe(el));
-      });
-    </script>
+    <Modal />
   </body>
 </html>

@@ -1,0 +1,36 @@
+---
+---
+
+<nav class="nav" id="main-nav">
+  <div class="container">
+    <div class="nav-inner">
+      <div class="nav-logo" style={{display:'flex', alignItems:'center', gap:10}}>
+        <img src="/assets/wflows-mark.svg" alt="WFlows" style={{height:32, width:'auto'}} />
+        <span style={{fontFamily:'Outfit, sans-serif', fontWeight:600, fontSize:18, letterSpacing:'-0.02em', color:'var(--wf-foreground)'}}>WFlows</span>
+      </div>
+      <div class="nav-links">
+        <span class="nav-link">Platform</span>
+        <span class="nav-link">Flows</span>
+        <span class="nav-link">Customers</span>
+        <span class="nav-link">Pricing</span>
+        <span class="nav-link">Docs</span>
+      </div>
+      <div class="nav-cta-group">
+        <button class="btn btn-ghost btn-sm">Sign in</button>
+        <button class="btn btn-primary btn-sm" id="nav-cta">Build your flow →</button>
+      </div>
+    </div>
+  </div>
+</nav>
+
+<script>
+  const nav = document.getElementById('main-nav');
+  const onScroll = () => {
+    if (window.scrollY > 8) {
+      nav.classList.add('scrolled');
+    } else {
+      nav.classList.remove('scrolled');
+    }
+  };
+  window.addEventListener('scroll', onScroll);
+</script>
