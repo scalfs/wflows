@@ -1,14 +1,19 @@
 ---
+
 ---
 
-<nav class="fixed top-0 w-full z-50 backdrop-blur-lg bg-navy-950/90 border-b border-gray-800/50">
+<nav
+  class="fixed top-0 w-full z-50 backdrop-blur-lg bg-navy-950/90 border-b border-gray-800/50"
+>
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
     <div class="flex items-center justify-between h-16">
       <!-- Logo -->
       <a href="/" class="flex items-center space-x-2 group">
         <span class="text-2xl font-bold tracking-tight">
-          <span class="text-teal-400 group-hover:text-teal-300">W</span>
-          <span class="text-gray-100 group-hover:text-white">Flows</span>
+          <span class="text-teal-400 group-hover:text-teal-300"
+            >W<span class="text-gray-100 group-hover:text-white">Flows</span
+            ></span
+          >
         </span>
       </a>
 
@@ -44,7 +49,7 @@
       <div class="flex items-center gap-4">
         <a
           href="#contact"
-          class="hidden sm:inline-flex items-center px-5 py-2.5 text-sm font-semibold text-navy-950 bg-gradient-to-r from-teal-400 to-electric-400 rounded-lg hover:from-teal-300 hover:to-electric-300 hover:scale-105 active:scale-100 shadow-lg hover:shadow-teal-400/40"
+          class="hidden sm:inline-flex items-center px-5 py-2.5 text-sm font-semibold text-navy-950 bg-linear-to-r from-teal-400 to-electric-400 rounded-lg hover:from-teal-300 hover:to-electric-300 hover:scale-105 active:scale-100 shadow-lg hover:shadow-teal-400/40"
         >
           Get Free Audit
         </a>
@@ -68,15 +73,13 @@
               stroke-linecap="round"
               stroke-linejoin="round"
               stroke-width="2"
-              d="M4 6h16M4 12h16M4 18h16"
-            />
+              d="M4 6h16M4 12h16M4 18h16"></path>
             <path
               class="close-icon hidden"
               stroke-linecap="round"
               stroke-linejoin="round"
               stroke-width="2"
-              d="M6 18L18 6M6 6l12 12"
-            />
+              d="M6 18L18 6M6 6l12 12"></path>
           </svg>
         </button>
       </div>
@@ -115,7 +118,7 @@
       </a>
       <a
         href="#contact"
-        class="block mt-4 px-4 py-3 text-center text-sm font-semibold text-navy-950 bg-gradient-to-r from-teal-400 to-electric-400 rounded-lg hover:from-teal-300 hover:to-electric-300 shadow-lg"
+        class="block mt-4 px-4 py-3 text-center text-sm font-semibold text-navy-950 bg-linear-to-r from-teal-400 to-electric-400 rounded-lg hover:from-teal-300 hover:to-electric-300 shadow-lg"
       >
         Get Free Audit
       </a>
@@ -125,38 +128,38 @@
 
 <script>
   // Mobile menu toggle
-  const menuButton = document.getElementById('mobile-menu-button');
-  const mobileMenu = document.getElementById('mobile-menu');
-  const menuIcon = menuButton?.querySelector('.menu-icon');
-  const closeIcon = menuButton?.querySelector('.close-icon');
+  const menuButton = document.getElementById("mobile-menu-button");
+  const mobileMenu = document.getElementById("mobile-menu");
+  const menuIcon = menuButton?.querySelector(".menu-icon");
+  const closeIcon = menuButton?.querySelector(".close-icon");
 
-  menuButton?.addEventListener('click', () => {
-    const isExpanded = menuButton.getAttribute('aria-expanded') === 'true';
+  menuButton?.addEventListener("click", () => {
+    const isExpanded = menuButton.getAttribute("aria-expanded") === "true";
 
-    menuButton.setAttribute('aria-expanded', (!isExpanded).toString());
-    mobileMenu?.classList.toggle('hidden');
-    menuIcon?.classList.toggle('hidden');
-    closeIcon?.classList.toggle('hidden');
+    menuButton.setAttribute("aria-expanded", (!isExpanded).toString());
+    mobileMenu?.classList.toggle("hidden");
+    menuIcon?.classList.toggle("hidden");
+    closeIcon?.classList.toggle("hidden");
   });
 
   // Close mobile menu when clicking a link
-  const mobileLinks = mobileMenu?.querySelectorAll('a');
-  mobileLinks?.forEach(link => {
-    link.addEventListener('click', () => {
-      mobileMenu?.classList.add('hidden');
-      menuButton?.setAttribute('aria-expanded', 'false');
-      menuIcon?.classList.remove('hidden');
-      closeIcon?.classList.add('hidden');
+  const mobileLinks = mobileMenu?.querySelectorAll("a");
+  mobileLinks?.forEach((link) => {
+    link.addEventListener("click", () => {
+      mobileMenu?.classList.add("hidden");
+      menuButton?.setAttribute("aria-expanded", "false");
+      menuIcon?.classList.remove("hidden");
+      closeIcon?.classList.add("hidden");
     });
   });
 
   // Close mobile menu on escape key
-  document.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape' && !mobileMenu?.classList.contains('hidden')) {
-      mobileMenu?.classList.add('hidden');
-      menuButton?.setAttribute('aria-expanded', 'false');
-      menuIcon?.classList.remove('hidden');
-      closeIcon?.classList.add('hidden');
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape" && !mobileMenu?.classList.contains("hidden")) {
+      mobileMenu?.classList.add("hidden");
+      menuButton?.setAttribute("aria-expanded", "false");
+      menuIcon?.classList.remove("hidden");
+      closeIcon?.classList.add("hidden");
     }
   });
 </script>

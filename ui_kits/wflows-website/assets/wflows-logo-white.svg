@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 64">
+  <g fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 8 14 Q 12 50 22 50 Q 28 50 32 38"></path>
+    <path d="M 32 38 Q 36 50 42 50 Q 52 50 56 14"></path>
+  </g>
+  <circle cx="32" cy="38" r="3.5" fill="#ffffff"></circle>
+  <text x="76" y="44" font-family="Inter, system-ui, sans-serif" font-weight="600" font-size="30" letter-spacing="-0.02em" fill="#ffffff">WFlows</text>
+</svg>
