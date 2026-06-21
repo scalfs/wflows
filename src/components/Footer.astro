@@ -1,59 +1,30 @@
 ---
-
+const WA_HREF = "https://wa.me/5527997402481?text=Hi%21%20I%27d%20like%20to%20book%20a%20free%20automation%20audit.";
 ---
 
 <footer class="footer">
   <div class="container">
     <div class="footer-grid">
       <div class="footer-brand">
-        <div
-          style={{
-            display: "flex",
-            alignItems: "center",
-            gap: 10,
-            marginBottom: 16,
-          }}
-        >
-          <img
-            src="/assets/wflows-mark-light.svg"
-            alt="WFlows"
-            style={{ height: 32, width: "auto" }}
-          />
-          <span
-            style={{
-              fontFamily: "Outfit, sans-serif",
-              fontWeight: 600,
-              fontSize: 18,
-              letterSpacing: "-0.02em",
-              color: "#f6fafc",
-            }}>WFlows</span
-          >
+        <div style={{display:'flex', alignItems:'center', gap:10, marginBottom:16}}>
+          <img src="/assets/wflows-mark-light.svg" alt="WFlows" style={{height:32, width:'auto'}} />
+          <span style={{fontFamily:'Outfit, sans-serif', fontWeight:600, fontSize:18, letterSpacing:'-0.02em', color:'#f6fafc'}}>WFlows</span>
         </div>
-        <p>
-          Quiet automation. Loud results. AI agents and GTM infrastructure for
-          B2B teams that mean it.
-        </p>
+        <p>Custom AI systems that cut 60–80% of manual work for agencies, home-service businesses, and finance firms.</p>
       </div>
       <div class="footer-col">
-        <h4>Platform</h4>
-        <a href="#">Flows</a>
-        <a href="#">Voice</a>
-        <a href="#">Pipeline</a>
-        <a href="#">Integrations</a>
-      </div>
-      <div class="footer-col">
-        <h4>Solutions</h4>
-        <a href="#">TradeFlows</a>
-        <a href="#">Inbound</a>
-        <a href="#">Outbound</a>
-        <a href="#">Service</a>
+        <h4>Sections</h4>
+        <a href="#industries">Who we work with</a>
+        <a href="#systems">What we build</a>
+        <a href="#process">Process</a>
+        <a href="#faq">FAQ</a>
       </div>
       <div class="footer-col">
         <h4>Company</h4>
-        <a href="#">About</a>
-        <a href="#">Customers</a>
-        <a href="#">Pricing</a>
-        <a href="#">Contact</a>
+        <a href="#guarantee">Our guarantee</a>
+        <a href="/privacy-policy">Privacy policy</a>
+        <a href="/terms-of-service">Terms of service</a>
+        <a href={WA_HREF} target="_blank" rel="noopener">Contact</a>
       </div>
     </div>
     <div class="footer-bottom">
